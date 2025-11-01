@@ -20,6 +20,7 @@ A directory of contact emails for **L3 S5 Computer Science (LMD)** teachers for 
 | **Debbah** | `amina.debbah@gmail.com`<br><br>`amina.debbah@univ-annaba.dz` |
 | **Debbache** | `f_debbeche@yahoo.fr` |
 | **Farah** | `nadir.farah@univ-annaba.dz`<br><br>`farah@labged.net` |
+| **Gherghout** | `etudiantst.gher@gmail.com` |
 | **Hakim** | `amira.hakim@hotmail.fr`<br><br>`amira.hakim@univ-annaba.dz` |
 | **Hamadache** | `bilelhamadache@gmail.com` |
 | **Hamissi** | `hamissi_sa@yahoo.fr` |
@@ -36,5 +37,4 @@ A directory of contact emails for **L3 S5 Computer Science (LMD)** teachers for 
 
 ---
 
-> **Last updated:** 15 October 2025
-
+> **Last updated:** 1 November 2025
